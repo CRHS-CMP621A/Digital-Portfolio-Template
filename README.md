@@ -9,6 +9,7 @@ Starter files for Digital Portfolio Project.
    2) You can connect anything from computer class,
    or from other courses or from outside school.
    3) Organize resources into proper folder structure (imgs, vids, other...)
+   4) Include links on the brainstorm page.
 
 2. Design your website layout/structure.
    1) Decide what will go on your FIRST page (index.html)
